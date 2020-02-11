@@ -1,6 +1,6 @@
 # Typescript App for Google Maps API
 
-#### Typescript practice accessing google maps API, creating my own map objects, creating interfaces, adding map markers and pop-up info boxes. Current version: 2/11/2020
+#### Typescript practice accessing google maps API, creating my own map objects, creating interfaces, adding map markers and pop-up info boxes. Built for "Typescript: The Complete Developer's Guide" course on Udemy. Current version: 2/11/2020
 
 #### By Sarah "Sasa" Schwartz
 
